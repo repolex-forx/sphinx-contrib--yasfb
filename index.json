@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "yasfb",
+  "versions": [
+    {
+      "commit": "328b4c55b2756f371e4d96d05dd984d8ebc286ff",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:30:56.788157+00:00"
+    }
+  ]
+}
